@@ -25,14 +25,13 @@ body {
     top: 20px;
     /* right: 20px; */
     left: 20px;
-    font-size: 16px;
+    font-size: 14px;
     color: #fff;
     z-index: 999;
     max-width: 360px;
     background-color: #ff8dc7;
     padding: 16px 32px;
     border-radius: 12px;
-    font-size: 18px;
 }
 
 .word-for-u2 {
